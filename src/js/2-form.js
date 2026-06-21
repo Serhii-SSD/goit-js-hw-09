@@ -1,1 +1,1 @@
-formData = { email: "", message: "" };
+const formData = { email: "", message: "" };
